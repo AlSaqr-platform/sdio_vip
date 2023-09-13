@@ -1,0 +1,5 @@
+package:
+  name: sdio_vip
+
+sources:
+  - rtl/sdModel.v
