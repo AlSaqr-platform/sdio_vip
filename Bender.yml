@@ -4,5 +4,5 @@ package:
 sources:
   files:
     - target: vip
-    files:
+      files:
       - rtl/sdModel.v
