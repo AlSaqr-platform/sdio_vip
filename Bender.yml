@@ -2,4 +2,7 @@ package:
   name: sdio_vip
 
 sources:
-  - rtl/sdModel.v
+  files:
+    - target: vip
+      files:
+      - rtl/sdModel.v
